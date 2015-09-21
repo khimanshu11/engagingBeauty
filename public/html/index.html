@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/content.css">
+    <!-- JS files start from here -->
+    <script src="../bower_components/angular/angular.min.js" defer></script>
+    <script src="../bower_components/jquery/dist/jquery.min.js" defer></script>
+    <script src="../bower_components/angular-route/angular-route.min.js" defer></script>
+    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js" defer></script>
+    <script src="../js/app.js" defer></script>
+    <script src="../js/subCategory.js" defer></script>
+    <script src="../js/singleProduct.js" defer></script>
+</head>
+
+<body ng-app="biotiqueStore">
+    <div id="container">
+        <div id='bsHeader'>
+            <div div="bsMainhead">
+                <div id="headerTopbar">
+                    <div id="headerContent">
+                        <div id="bsLogo"></div>
+                        <div class="input-group" id="SearchBox">
+                            <input type="text" class="form-control" placeholder="Search...." aria-describedby="basic-addon2">
+                            <span class="input-group-addon " id="basic-addon2"><i class="glyphicon glyphicon-search"></i></span>
+                        </div>
+                        <div class="bsCartButton">
+                            <a class="btn">
+                                <span class="glyphicon glyphicon-shopping-cart addcolor">
+                                </span>
+                                <span class="cart-label addcolor">
+                                    Cart
+                                </span>
+                                <span id="item_count_in_cart_top_displayed" class="fk-inline-block cart-count addcolor">
+                                    0
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div id="headerMenu">
+                    <div id="menuContent">
+                        <div class="navbar-header">
+                            <a class="navbar-brand  addcolor" href="#/">SEE ALL CATEGORY</a>
+                        </div>
+                        <div>
+                            <ul class="nav navbar-nav">
+                                <li class="addcolor "><a href="#/">Skincare</a></li>
+                                <li class="addcolor "><a href="#/">Body</a></li>
+                                <li class="addcolor"><a href="#/">Hair</a></li>
+                                <li class="addcolor"><a href="#/">Baby</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div id="menuHeaderContent"></div>
+                <div class="fclear"></div>
+            </div>
+        </div>
+        <div class="bsMainBody">
+            <div class="bsMainContent">
+                <div class="bsHomePage">
+                    <div ng-view>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer></footer>
+</body>
+
+</html>

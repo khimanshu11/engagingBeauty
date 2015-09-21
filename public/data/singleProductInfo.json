@@ -1,0 +1,309 @@
+{
+   "SKINCARE":{
+      "CLEANSING":{
+            "1101":{
+               "name":"BIO BERBERRY",
+               "protagline":"SOOTHING FACE & EYE MAKEUP CLEANSER",
+               "image":"bio_berberry.jpg",
+               "skintype":"For Normal To Dry Skin",
+               "about":"This soothing cleanser is blended with nourishing almond, safflower, sesame, neem and staff tree oils to dissolve heavy face and eye makeup easily and gently. Leaves skin silky-fresh.",
+               "ingredients":"Kusumbhi (Carthamus tinctorius), Arandi (Ricinus communis), Neem (Melia azadirachta), Soya (Anethum sowa), Badam (Prunus amygdalus), Surajmukhi (Helianthus annuus), Malakanguni (Celastrus paniculata), Til Tail (Sesame indicum)",
+               "useinfo":"Apply to damp cotton pads or washcloth and gently wipe over entire face and eye area, morning and evening."
+            },
+            "1102":{
+               "name":"BIO HONEY GEL",
+               "protagline":"HYDRATING FOAMING CLEANSER",
+               "image":"bio_honey_gel.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This fresh-foaming, 100% soap-free gel is blended with pure honey and extracts from the bark of the arjun tree, euphorbia plant and wild turmeric. Dissolves makeup and impurities, softens skin and helps lighten the complexion.",
+               "ingredients":"Arjun (Terminalia arjuna), Chhoti Duddhi (Ephorbia thymofolia), Banhaldi (Curcuma aromatics), Ritha (Sapindus trifoliatus), Honey, Himalayan Water Q.S.",
+               "useinfo":"Gently massage over wet face and neck with fingertips, lather and rinse, morning and evening."
+            },
+            "1103":{
+               "name":"BIO ALMOND OIL",
+               "protagline":"SOOTHING FACE & EYE MAKEUP CLEANSER",
+               "image":"bio_almond_oil.jpg",
+               "skintype":"For Normal To Dry Skin",
+               "about":"This soothing cleanser is blended with nourishing almond, safflower, sesame, neem and staff tree oils to dissolve heavy face and eye makeup easily and gently. Leaves skin silky-fresh.",
+               "ingredients":"Kusumbhi (Carthamus tinctorius), Arandi (Ricinus communis), Neem (Melia azadirachta), Soya (Anethum sowa), Badam (Prunus amygdalus), Surajmukhi (Helianthus annuus), Malakanguni (Celastrus paniculata), Til Tail (Sesame indicum)",
+               "useinfo":"Apply to damp cotton pads or washcloth and gently wipe over entire face and eye area, morning and evening."
+            },
+            "1104":{
+               "name":"BIO PINEAPPLE",
+               "protagline":"OIL CONTROL FOAMING FACE CLEANSER",
+               "image":"bio_pineapple.jpg",
+               "skintype":"Normal to Oily Skin",
+               "about":"This fresh-foaming, 100% soap-free cleansing gel is blended with extracts of pineapple, neem leaves, euphorbia plant and clove oil to dissolve makeup, purge pores and purify the complexion.",
+               "ingredients":"Gandhak (Sulphur), Neem (Melia azadirachta), Chhoti Duddhi (Ephorbia thymofolia), Anannas (anannas cosmos), Lavang Oil (Caryophyllus aromaticus), Lotion Base Q.S.",
+               "useinfo":"Gently massage over wet face and neck with fingertips, lather and rinse, morning and evening."
+            }
+      },
+      "EXFOLIATING":{
+            "1201":{
+               "name":"BIO PAPAYA",
+               "protagline":"REVITALIZING TAN-REMOVAL SCRUB",
+               "image":"bio_papaya_scrub.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This exfoliating scrub is blended with pure papaya fruit to dissolve dead surface cells, unclog pore openings and smooth the way for clear skin to surface. Gentle refining action uncovers skin's natural brightness for a younger-looking complexion.",
+               "ingredients":"Papita (Carica papaya), Kela (Musa sapientum), Khajoor (Phoenix dactylifera), Neem (Melia azadiradrachita), Methi (Trgonelia foenum graecum), Yasad bhasm (Zincum), Ban haldi (Curcuma aromatica), Aam beej (Magnifela indica), Bees wax, Gun acacia (Acacia arabica), Moongphali (Archis hypogea), Himalayan water Q.S.",
+               "useinfo":"Massage on wet face and neck with fingertips. Avoid eye area. Remove with water or damp washcloth. Use daily or as needed."
+            },
+            "1202":{
+               "name":"BIO PEACH",
+               "protagline":"CLARIFYING & REFINING PEEL-OFF MASK",
+               "image":"bio_peach_mask.jpg",
+               "skintype":"For Oily & Acne Prone Skin,",
+               "about":"This exfoliating mask is blended with extracts of peach, plum, cucumber, cabbage, neem and quince seed to deep-cleanse skin and purify pores. Its peel-off action lifts embedded impurities, refines skin texture and clears the way for lighter, brighter skin to surface.,",
+               "ingredients":"Adu (Prunus persica), Ghritkumari (A. barbedensis), kikargaund (Acacia Arabica), Neem (Melia azadirchta), Bandhgobhe (Brassica oleracea), Bihidana (Pyrus cydonia) Q.S.,",
+               "useinfo":"Apply evenly over cleansed face and neck. Avoid eye area. Let dry. Peel off. Rinse with water or damp washcloth to remove last traces. Use daily of as needed"
+            }
+      },
+      "TONING":{
+           "1301":{
+               "name":"BIO CUCUMBER",
+               "protagline":"PORE TIGHTENING TONER WITH HIMALAYAN WATERS",
+               "image":"bio_cucumber.jpg",
+               "skintype":"For Normal to Oily Skin,",
+               "about":"This refreshing, pore tightening and purifying lotion is blended with cucumber, coriander, nutgalls, berberry, peppermint oil and the fresh waters found in the foothills of the Himalayas. It is formulated to bring the complexion into perfect pH balance and help keep skin in its purest state.,",
+               "ingredients":"Daruhaldi (Berberis aristata), Dhania (coriandrum sativum), Majuphal (Quercus infectoria), Pudina (Mentha arvensis), Kheera (Cucumis sativus) Q.S.,",
+               "useinfo":"Apply to cotton pads or washcloth and gently wipe over cleansed face and neck, morning and evening.\""
+            },
+            "1302":{
+               "name":"BIO HONEY WATER",
+               "protagline":"CLARIFYING TONER WITH HIMALAYAN WATERS",
+               "image":"bio_honey_water.jpg",
+               "skintype":"For All Skin Types,",
+               "about":"This lightening lotion is blended with pure honey, aloe Vera, manjishtha, nutgalls, carrot, sandalwood, and the fresh waters found in the foothills of the Himalayas. Refreshes, tones and brightens the complexion. Brings skin into perfect pH balance.,",
+               "ingredients":"Maju phal (Quercus Infectoria), Gajar (Daucus Carota), Ghritkumari (Aloevera Bardadensis), Manjistha (Rubia Cordifolia), Gulab (Rosa Centifolia), Madhu (Honey (Mel), Japa (Hibiscus rose senensis), Himalayan Water Q.S.,",
+               "useinfo":"Apply to cotton pads or washcloth and gently wipe over cleansed face and neck, morning and evening."
+            }
+      },
+      "VITALIZING":{
+            "1401":{
+               "name":"BIO DANDELION",
+               "protagline":"AGELESS LIGHTENING SERUM",
+               "image":"new_dandellion.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This lightening serum is a rare combination of pure dandelion, rich in Vitamin E and minerals, blended with nutmeg oil. Used regularly, it helps brighten skin, fade dark spots and ease away wrinkles for a flawless complexion.",
+               "ingredients":"Bihidana (Pyrus cydonia), Halon (Chansaur) Lepidium sativum), Jaiphal (Myristica Fragrans), Badam tail (Prunus amygdalus), Surajmukhi (Helianthus annuus), Khamir (Sacchromyces), Doodhal (Taraxacum officianle), Ground nut Oil, Hlmalyan Water Q.S.",
+               "useinfo":"Massage a few drops into cleansed face and neck, before moisturizer, morning and evening."
+            }
+      },
+      "MOISTURIZING":{
+            "1501":{
+               "name":"BIO CHLOROPHYLL",
+               "protagline":"OIL-FREE ANTI-ACNE GEL & POST HAIR REMOVAL SOOTHER",
+               "image":"bio_chlorophyll.jpg",
+               "skintype":"For Oily & Acne Prone Skin",
+               "about":"This refreshing, anti-baterial moisturizer is blended with chlorophyll and extracts of seaweed, sea algae, aloe vera and gum arabic to tighten pores, avert blemishes, and keep skin nourished and clear without flaking.",
+               "ingredients":"Chinai ghas (Gelidium amansii), Kuda (Holorrhenna antidysenterica), Ghrit kumari (Aloevera indica), Kikkar gaund (Acacia Arabica), Samundir Kai (Gelidium amansii), Himalayan Water Q.S.",
+               "useinfo":"Apply evenly over cleansed face and neck, morning and evening, to refresh skin. Also recommended for post hair removal, to soothe and condition the skin against redness and irritation"
+            },
+            "1502":{
+               "name":"BIO QUINCE SEED",
+               "protagline":"NOURISHING FACE MASSAGE CREAM",
+               "image":"bio_quince_seed.jpg",
+               "skintype":"For Normal To Dry Skin",
+               "about":"This pampering and nourishing face massage cream is blended with quince seed oil, Vitamin E and special hydrating molecules to awaken the skin to new freshness, smoothness and youthful resilience. Particularly soothing to vulnerable skin areas: contours of eyes, nose and neck.",
+               "ingredients":"Bihidana (Cydona Oblonga), Rai (Brassica nigra), Sarosn (Brassica Campestris), Surajmukhi (Helianthus annus oil), Lodhra (Symplooos racemosa), Kusumbhi (Carthmus Tinctorius), Cream base Q.S.",
+               "useinfo":"Smooth over cleansed face and neck, using gentle circular massage motions in an upward/outward detection, for 5-10 minutes. Use daily or as needed."
+            },
+            "1503":{
+               "name":"BIO SAFFRON DEW",
+               "protagline":"YOUTHFUL NOURISHING DAY CREAM",
+               "image":"bio_saffron_dew.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This light-feeling moisturizer is blended with pure saffron, almond and pistachio oils, as well as turmeric and wild turmeric extracts, to replenish and help sustain skin's dewy fullness of youth. Dry lines and wrinkles are visibly reduced with regular use.",
+               "ingredients":"Kesar (Crocus sativus), Pista tail (Pistacia vera), Banhaldi (Curcuma aromatia), Badam (Prunus amygdalus), Haldi (Curcuma longa), Cream base Q.S",
+               "useinfo":"Apply to cleansed face, using gentle circular massage motions until absorbed every morning."
+            },
+            "1504":{
+               "name":"BIO WHEAT GERM",
+               "protagline":"YOUTHFUL NOURISHING NIGHT CREAM",
+               "image":"bio_wheat_germ.jpg",
+               "skintype":"For Normal To Dry Skin",
+               "about":"This rich-feeling, firming cream is blended with pure wheat germ, sunflower and almond oils, vitamins A, B, C, D, E and extracts of carrot and galangal to moisturize and strengthen skin for a more vital, resilient, younger appearance.",
+               "ingredients":"Ankurit gehun (Triticum stivum), Gajar (Daucus carota), Badam tail (Prunus amygdalus), Kulanjan (Alpinia galangal), Surajmukhi tail (Helianthus annuus), Cream base Q.S.",
+               "useinfo":"Gently smooth over cleansed face and body with upward strokes every evening"
+            }
+      },
+      "SCRUBS& MASKS":{
+         "tagline":"Rejuvenate your skin and make way for a brighter, clearer complexion.",
+            "1601":{
+               "name":"BIO MYRISTICA",
+               "protagline":"SPOT CORRECTING ANTI-ACNE FACE PACK",
+               "image":"bio_myristica.jpg",
+               "skintype":"For Oily & Acne Prone Skin",
+               "about":"This spot correcting face pack treats pimples and helps control the bacteria that causes breakouts, redness and other skin irritations.",
+               "ingredients":"Jaiphal (Myristica fragrans), Pippli (Piper longum), Haldi (Cumuma longa), Chandan (Santalum album), Geru (Red ochre), Multani mitti (Fuller's earth), Kikkar gaund (Acacia Arabica), Himalayan Water Q.S.",
+               "useinfo":"Apply to cleansed skin, on affected areas only morning and evening until skin is clear."
+            },
+            "1602":{
+               "name":"BIO CLOVE",
+               "protagline":"PURIFYING ANTI-BLEMISH FACE PACK",
+               "image":"bio_clove.jpg",
+               "skintype":"For Oily & Acne Prone Skin",
+               "about":"This purifying anti-blemish pack is blended with pure clove and wild turmeric to control pimples, absorb excess oils and other embedded impurities that can cause acneic conditions. With regualr use, the complexion looks clear, smooth and vibrant.",
+               "ingredients":"Lavang (Syzygium aromaticum), Pudina (Mentha piperata), Gandhak (Sulphur), Kikar gond (Acacia Arabia), Yashad (yashad bhasma), Geru (Red ochre), Paste base Q.S.",
+               "useinfo":"Apply a thick layer on clean dry face and neck. Avoid eye and mouth areas. Leave on for 15-20 minutes. Rinse with water or damp washcloth. Use daily or as needed."
+            },
+            "1603":{
+               "name":"BIO FRUIT",
+               "protagline":"WHITENING & DEPIGMENTATION FACE PACK",
+               "image":"bio_fruit_pack.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This luxurious de-pigmentation pack is blended with the juices of pineapple, tomato, lemon and papaya fruit to visibly lighten skin for a fairer, flawless look. With regular use, skin reclaims its soft, smooth, youthful tone and texture.",
+               "ingredients":"Multani mitti (Fuller's earth), Geru (Garric), Yasad hhasma (Yasad bhasma), Tamator (Lycopersicum esculentum), Ananas (Ananas comosus), Kikargaund (Acacia Arabica), Paste base Q.S.",
+               "useinfo":"Apply evenly over cleansed face and neck Leave on for 15-20 minutes. Rinse with water or damp washcloth. Use daily or as needed to lighten and brighten the complexion."
+            },
+            "1604":{
+               "name":"BIO MILK PROTEIN",
+               "protagline":"WHITENING & REJUVENATING FACE PACK",
+               "image":"bio_milk_protein.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This whitening and nourishing pack is blended with pure extracts of milk protein, wheat germ, almond oil, honey and seaweed to moisturize and revitalize the skin. Eases away wrinkles and lightens skin for a visibly fairer, smoother, rejuvenated complexion.",
+               "ingredients":"Dugdh (Lactus), Khamir (Saccharomyces) (yeast), Ankurit gehun (Triticum valgare (Germinated), Badam (Prunus amygdalus), Chinai ghas (Gelidium cartilagineum), Neem (Melia azadirchta indica), Surajmukhi (Helianthus annuus), (Madhu) Honey (Mel), Cream base Q.S.",
+               "useinfo":"Apply evenly over cleansed face, neck and around eyes. Leave on for 15-20 minutes. Rinse with water or damp washcloth. Use daily or as needed."
+            },
+            "1605":{
+               "name":"BIO MUD",
+               "protagline":"YOUTHFUL FIRMING & REVITALIZING FACE PACK",
+               "image":"bio_mud.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This firming and revitalizing mud pack is blended with magnesium, calcium and iodine mineral salts, and essential oils of basil, geranium, lavender and peppermint, to help lift, tighten and reduce the appearance of lines and wrinkles.",
+               "ingredients":"Multani mitti (Fuller's earth), Gem (Red ochre), Yasad bhasm (Yasad bhasm), Badam (Prunus amygdalus), Pudina (Mentha arvensis), Kikar gaund (Acacia arabica), Surajmukhi (Helianthus annus), Paste Base Q.S.",
+               "useinfo":"Apply a thick layer on cleansed face and neck Avoid eye and mouth areas. Leave on for15-20 minutes, Rinw-with water or a damp washcloth. Use daily or as needed."
+            },
+            "1606":{
+               "name":"BIO PAPAYA",
+               "protagline":"REVITALIZING TAN-REMOVAL SCRUB",
+               "image":"bio_papaya.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This exfoliating scrub is blended with pure papaya fruit to dissolve dead surface cells, unclog pore openings and smooth the way for clear skin to surface. Gentle refining action uncovers skin's natural brightness for a younger-looking complexion.",
+               "ingredients":"Papita (Carica papaya), Kela (Musa sapientum), Khajoor (Phoenix dactylifera), Neem (Melia azadiradrachita), Methi (Trgonelia foenum graecum), Yasad bhasm (Zincum), Ban haldi (Curcuma aromatica), Aam beej (Magnifela indica), Bees wax, Gun acacia (Acacia arabica), Moongphali (Archis hypogea), Himalayan water Q.S.",
+               "useinfo":"Massage on wet face and neck with fingertips. Avoid eye area. Remove with water or damp washcloth. Use daily or as needed."
+            },
+            "1607":{
+               "name":"BIO PEACH",
+               "protagline":"CLARIFYING & REFINING PEEL-OFF MASK",
+               "image":"bio_peach.jpg",
+               "skintype":"For Oily & Acne Prone Skin",
+               "about":"This exfoliating mask is blended with extracts of peach, plum, cucumber, cabbage, neem and quince seed to deep-cleanse skin and purify pores. Its peel-off action lifts embedded impurities, refines skin texture and clears the way for lighter, brighter skin to surface.",
+               "ingredients":"Adu (Prunus persica), Ghritkumari (A. barbedensis), kikargaund (Acacia Arabica), Neem (Melia azadirchta), Bandhgobhe (Brassica oleracea), Bihidana (Pyrus cydonia) Q.S.",
+               "useinfo":"Apply evenly over cleansed face and neck. Avoid eye area. Let dry. Peel off. Rinse with water or damp washcloth to remove last traces. Use daily of as needed."
+            },
+            "1608":{
+               "name":"BIO PISTACHIO",
+               "protagline":"YOUTHFUL NOURISHING & REVITALIZING FACE PACK",
+               "image":"bio_pistachio.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This deeply nurturing pack is blended with pure pistachio, almond, saffron and lentil seed oils to smooth, nourish and revitalize skin for a radiantly ageless complexion.",
+               "ingredients":"Pista (Pistica vera), Kesar (Crocus sativus), Jaiphal (Myristica fragrans), Badam (Prunus amygdlaus), Gem (Red ochre), Banhaldi (Curcuma aromatica), Mom (Bees wax), Surajmukhi (Helianthus auras), Himalayan water Q.S.",
+               "useinfo":"Apply a thick layer on cleansed face and neck. Leave on 15-20 minutes. Rinse off with water or damp washcloth Use daily or as needed."
+            }
+      },
+      "EYE& LIP CARE":{
+            "1701":{
+               "name":"BIO KAAJAL",
+               "protagline":"NOURISHING & CONDITIONING EYE LINER WITH ALMOND OIL",
+               "image":"bio_kaajal.jpg",
+               "skintype":"For All Skin Types",
+               "about":"This soothing eye liner is made in the traditional Ayurvedic manner, blended with pure sesame oil, sweet almond oil and extracts of eclipta alba, indian gooseberry and berberis aristata. Nourishes the eye, area and leaves eyes sparkling.Also promotes eyelash growth.",
+               "ingredients":"Badam (Prunus amygdalus), Bahera (Terminalia belerica), Harer (Terminalia chebula), Amla (Emblica officinalis), Mulethi (Glycyrrhiza glabra), Kapoor (camphor cinnamom), Anjan (Netranjan), Kaajal (Kaajal), Ointment Base Q.S.",
+               "useinfo":"Apply a light line to the rims of the eyes, from inner to outer corners, for a soft smoky look. Darken lin for a smoldering finish."
+            },
+            "1702":{
+               "name":"BIO ALMOND",
+               "protagline":"OVERNIGHT THERAPY LIP BALM",
+               "image":"bio_almond_lip_balm.jpg",
+               "skintype":"Replenishes & Repairs Lips",
+               "about":"This soothing balm deeply nourishes and fortifies lips. Tone, texture and firmness are unproved overnight.",
+               "ingredients":"Madhu (Honey), Vach (Acoruscalamus), Mulethi (Glycynhiza glabra), Was (Prun usamygdalus), Surajmukhi (Helianthus annus), Kashumbi (carthamus tincorius), Til (Sesamum indicum), Erandi (Ricinus communis), Marhum base Q.S.",
+               "useinfo":"Smooth on and around bare lips each evening before, bedtime."
+            },
+            "1703":{
+               "name":"BIO SEAWEED",
+               "protagline":"REVITALIZING ANTI-FATIGUE EYE GEL",
+               "image":"bio_seaweed.jpg",
+               "skintype":"",
+               "about":"This refreshing eye gel reduces and prevents signs of stress, puffiness and darks circles.",
+               "ingredients":"Chinai Ghas (Gelidium cartigaineum), Punarnava (Boerhavia diffusa), Bahera (Terminalia belerica), Badam (Prunus amygdalus), Jaiphal (Myristica fragrans), Madhu Honey (Mel), Kheera (Cucumis sativus), Himalayan water Q.S.",
+               "useinfo":"Lightly pat around eye area, morning and evening."
+            },
+            "1704":{
+               "name":"BIO MORNING NECTAR",
+               "protagline":"LIGHTENING LIP BALM SPF 30 UVA/UVB SUNSCREEN",
+               "image":"bio_morning_nectar_lip_balm.jpg",
+               "skintype":"Lightens & Protects",
+               "about":"This anti-aging balm moisturizes and revitalizes lips. Fights collagen loss and fills-in creases to smooth-out dry lines for noticeably smoother, younger looking lips.",
+               "ingredients":"Arjun (Terminalia arjuna), Lodhra (Symplocosra cemosa), Madhu (Honey), Vach (Acoruscalamus), Mulethi (Glycyrrhiza glabra), Badam (Prunusamygdalus), Surajmukhi (Helian thus annus), Kusumbhi (Carthamus tinctorius), Til (Sesamum indicum), Erandi (Ricinus communis), Marham base Q.S.",
+               "useinfo":"Smooth on and around bare lips, alone or under lipstick."
+            },
+            "1705":{
+               "name":"BIO ALOE VERA",
+               "protagline":"NOURISHING LIP BALM SPF 30 UVA/UVB SUNSCREEN",
+               "image":"bio_aloevera_lip_balm.jpg",
+               "skintype":"Prevents Chapped & Sunburned Lips",
+               "about":"This nutrient-rich lip balm prevents and corrects chapped, cracked lips. Protects with SPF 30 UVA/UVB sunscreen.",
+               "ingredients":"Ghritkumari (Aloevera Barbednsis), Madhu (Honey), Vach (Acoruscalamus), Mulethi (Glycyrrhiza Glabra), Badam (Prunusamygdalus), Surajmukhi (Helianthus annus), Kusumbhi (Carthamus Tinctorius), Til (Sesamum indicum), Erandi (Ricinus communis), Marham base Q.S.",
+               "useinfo":"Smooth on and around bare lips, alone or under lipstick."
+            },
+            "1706":{
+               "name":"BIO FRUIT",
+               "protagline":"WHITENING LIP BALM",
+               "image":"bio_fruitt_lip_balm.jpg",
+               "skintype":"Lightens & Evens-Out Lip Tones",
+               "about":"This de-pigmentation balm visibly lightens lips for a fairer skin tone.",
+               "ingredients":"Angur (Vitis vinifera), Vach (Acours calamus), Mulethi (Glycyrrhiza glabra), Badam (Prunus amygdalus), Surajmukhi (Helianthus annus), Kusumbhi (Carthamus tinctorius), Til (Sesamum indicum), Erandi (Ricinus communis), Madam bass Q.S.",
+               "useinfo":"Smooth on and around bare lips” alone or under lipstick."
+            },
+            "1707":{
+               "name":"BIO PEPPERMINT",
+               "protagline":"FRESH-KISS LIP BALM",
+               "image":"bio_peppermint_fresh_-_kiss_lip_-balm.jpg",
+               "skintype":"Softens & Refreshes Lips",
+               "about":"This refreshing balm texttuizes delicate lips to a sleek, smooth, kissable suppleness.",
+               "ingredients":"Arjun (Terminalia arjuna), Lodhra (Symplocos racemosa), Pudina (Mentha arvensis), Vach (Acoruscalamus), Badam (Prunusamygdalus), Surajmukhi (Helianthus annus), Kusumbhi (Carthamus tinctorius),Til (Sesamum Indicum), Erandi (Ricinus communis), Marham base Q.S.",
+               "useinfo":"Smooth on and around b,are lips, alone or under lipstick."
+            },
+            "1708":{
+               "name":"BIO BERRY",
+               "protagline":"PLUMPING LIP BALM",
+               "image":"bio_berry_lip_balm.jpg",
+               "skintype":"Smoothes & Swells Lips",
+               "about":"This plumping balm restores lip fullness for a voluptuous, bee-stung look and refined lip contours.",
+               "ingredients":"Lodhra (Symplocos racemosa), Indian berry (Coccilus suberosus), Vach (Acorucalamus), Badam (Prunusamygdalus), Surajmukhi (Helianthus annus), Kusumbhi (Carthamus tinctorius), Til (Sesamum Indicum), Erandi (Ricinus communis), Marham base Q.S.",
+               "useinfo":"Smooth on and around bare lips, alone or under lipstick."
+            }
+      },
+      "SUN PROTECTION":{
+            "1801":{
+               "name":"BIO CARROT",
+               "protagline":"40+ SPF SUNSCREEN",
+               "image":"bio_carrot_sunscreen_art.jpg",
+               "skintype":"Ultra Soothing Face Cream For All Skin Types",
+               "about":"This nutrient-rich cream is blended with pure carrot oil, extracts of carrot seed and lodhra bark, quince seed and aloe vera to keep skin soft, fair and moisturized in the sun. Protects skin with broad spectrum SPF 40 UVA/UVB sunscreen.",
+               "ingredients":"Parijat (Nyctanthes arbortristis), Lodhra (Symplocos racemosa), Gajar (Daucus carota), Yashad bhasm Zind ash with herbs, Singjerahata (Talc), Cream Base Q.S.",
+               "useinfo":"Apply liberally before sun exposure. Reapply, as needed, after swimming or perspiring activities. Helps reduce the risk of skin aging, skin cancer and other harmful effects of the sun."
+            },
+            "1802":{
+               "name":"BIO ALOE VERA",
+               "protagline":"30+ SPF SUNSCREEN",
+               "image":"bio_aloe_vera_sunscreen_art.jpg",
+               "skintype":"Ultra Soothing Face Cream For Normal To Oily Skin",
+               "about":"This nutrient-rich cream is blended with pure aloe vera, sunflower and safflower oils to keep skin soft, fair and moisturized in the sun. Protects skin with broad spectrum SPF 30 UVA/UVB sunscreen.",
+               "ingredients":"Ghritkumari (Aloevera barbadensis), Chandan (Santalum album), Surajmukhi (Helianthus annuus), Kusumbhi (Cartamus tinctorius), Yasad (Zincum), Cream base Q.S.",
+               "useinfo":"Apply liberally before sun exposure. Reapply, as needed, after swimming or perspiring activities. Helps reduce the risk of skin aging, skin cancer and other harmful effects of the sun."
+            }
+      }
+   },
+   "BODY":{
+
+   },
+   "HAIR":{
+
+   },
+   "BABY":{
+
+   }
+}

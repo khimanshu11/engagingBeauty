@@ -1,0 +1,243 @@
+#bsLogo{
+	background-image: url(../images/siteLogo.png);
+	background-repeat: no-repeat;
+	height: 70px;
+	width: 80px;
+	float: left;
+	margin-top: 20px;
+}
+
+#header{
+	height: 100px;
+}
+
+.fclear, .cls {
+	clear: both;
+}
+#headerContent{
+	margin: 0px auto;
+	width: 978px;
+}
+
+#SearchBox {
+	width: 600px;
+	float: left;
+	margin-top: 54px;
+	margin-left: 30px;
+}
+
+#headerMenu {
+	height: 50px;
+	float: left;
+	width: 100%;
+	background-color: #383838;
+	color: white;
+	margin-top: 5px;
+}
+
+#menuContent{
+	width: 978px;
+	margin: 0 auto;
+}
+
+.bsMainContent {
+	margin: 0 auto;
+	width: 978px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+	margin: auto;
+	width: 100%;
+}
+
+.bsHomePage {
+	width: 992px;
+}
+
+#banners {
+	width: 744px;
+	float: left;
+	height: 340px;
+}
+
+.bsMainBody {
+	margin-top: 30px;
+}
+.offerWrap{
+	width: 182px;
+	margin: 0;
+	float: left;
+	height: 240px;
+	list-style-type: none;
+	margin-right: 4px;
+	border: 1px solid #fff;
+}
+
+.offerWrap:hover{
+	border: 1px solid #006400;
+}
+
+.categorySummary {
+	width: 744px;
+	float: left;
+	margin-bottom: 40px;
+}
+
+.categoryName {
+	height: 40px;
+	text-align: left;
+	background-color: #002800;
+	color: #fff;
+	font-size: 20px;
+	vertical-align: middle;
+	padding: 4px 0 0 20px;
+	margin-bottom: 5px;
+}
+
+.itemList{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.offerImage{
+	background-repeat: no-repeat;
+	height: 149px;
+	width: 149px;
+	margin: 0 auto;
+}
+
+#image1 {
+	background-image: url(../images/bio_papaya_150_ml_face_wash_art.png);
+}
+
+#image2 {
+	background-image: url(../images/bio_pineapple_120ml_10.png);
+}
+#image3 {
+	background-image: url(../images/bio_saffron_dew_55g_8.png);
+}
+#image4 {
+	background-image: url(../images/bio_white_150_ml_face_wash_art.png);
+}
+#image5 {
+	background-image: url(../images/bio_wave_styling_gel_1.png);
+}
+
+#image6 {
+	background-image: url(../images/bio_bhringraj_120ml_2.png);
+}
+#image7 {
+	background-image: url(../images/bio_thyme_210ml_1.png);
+}
+#image8 {
+	background-image: url(../images/bio_green_apple_120ml_1.png);
+}
+#image9 {
+	background-image: url(../images/bio_papaya_150_ml_face_wash_art.png);
+}
+
+#image10 {
+	background-image: url(../images/bio_papaya_150_ml_face_wash_art.png);
+}
+#image11 {
+	background-image: url(../images/bio_papaya_150_ml_face_wash_art.png);
+}
+#image12 {
+	background-image: url(../images/bio_papaya_150_ml_face_wash_art.png);
+}
+.offerTitle{
+	font-size: 20px;
+	font-family: arial;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.offerDescription{
+	font-size: 12px;
+	font-family: arial;
+	margin-top: 15px;
+}
+
+.bsCartButton {
+	width: 80px;
+	float: left;
+	border-radius: 3px;
+	background-color: rgb(70, 105, 46);
+	margin-top: 54px;
+	margin-left: 40px;
+}
+
+.addcolor{
+	color: #fff;
+	font-size: 14px;
+}
+
+.addcolor > a{
+	color: #fff;
+	text-transform: uppercase;
+}
+
+/*Single Product Information*/
+
+.contentContainer{
+	width: 968px;
+	margin: 0 auto;
+}
+.ImageContainer{
+	width: 340px;
+	height: 340px;
+	float: left;
+	margin-left: 10px;
+}
+
+.descriptionContainer {
+	width: 618px;
+	float: left;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 20px;
+	font-family: segoe;
+}
+
+.singleProductName {
+  height: 50px;
+  border-bottom: 1px solid #293D3D;
+  color: #009933;
+  font-family:segoe;
+}
+
+.singleProductName h3{
+	font-weight: bold;
+}
+.singleProductDescription {
+  font-size: 18px;
+  height: 35px;
+  vertical-align: middle;
+  border-bottom: 1px solid;
+  padding: 5px 0;
+  color: #CC0000;
+  font-weight: 600;
+}
+
+.aboutProductIcon {
+	color: #0066FF;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+
+.ingredientProductIcon{
+	color: #0066FF;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+
+.productManual{
+	color: #0066FF;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+}

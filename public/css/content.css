@@ -1,0 +1,177 @@
+#bsLogo{
+	background-image: url(../images/siteLogo.png);
+	background-repeat: no-repeat;
+	height: 70px;
+	width: 80px;
+	float: left;
+	margin-top: 20px;
+}
+
+#header{
+	height: 100px;
+}
+
+.fclear, .cls {
+	clear: both;
+}
+#headerContent{
+	margin: 0 auto;
+	width: 978px;
+}
+
+#SearchBox {
+	width: 600px;
+	float: left;
+	margin-top: 54px;
+	margin-left: 30px;
+}
+
+#headerMenu {
+	height: 50px;
+	float: left;
+	width: 100%;
+	background-color: #383838;
+	color: white;
+	margin-top: 5px;
+}
+
+#menuContent{
+	width: 978px;
+	margin: 0 auto;
+}
+
+.addcolor > a{
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.addcolor{
+	color: #fff;
+	font-size: 14px;
+}
+
+.bsMainBody{
+	width:1226px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.bs-text-center{
+	text-align:center;
+}
+
+.header-title{
+}
+
+.bs-lheader{
+	margin:20px 0;
+}
+#leftSideFilters{
+	width:234px;
+	float:left;
+	height:100px;
+}
+
+#mainContent{
+	width:730px;
+	float:left;
+	height:100px;
+}
+
+#rightSideAdvertisement{
+	width:234px;
+	float:left;
+	height:100px;
+}
+
+.itemDetails{
+	float: left;
+	height: 260px;
+	width: 225px;
+	border: 1px solid #fff;
+	text-align: left;
+	margin-left: 14px;
+}
+.itemDetails:hover{
+	border: 1px solid green;
+}
+.itemImage{
+	width: 151px;
+	height: 151px;
+	margin: 10px auto;
+}
+
+.productName{
+	padding-left: 10px;
+}
+
+.itemPrice{
+	padding-left: 10px;
+}
+
+.itemDescription{
+	padding-left: 10px;
+}
+
+/*Single Product Information*/
+
+.contentContainer{
+	width: 968px;
+	margin: 0 auto;
+}
+.ImageContainer{
+	width: 340px;
+	height: 340px;
+	float: left;
+	margin-left: 10px;
+}
+
+.descriptionContainer {
+	width: 618px;
+	float: left;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 20px;
+	font-family: segoe;
+}
+
+.singleProductName {
+  height: 50px;
+  border-bottom: 1px solid #293D3D;
+  color: #009933;
+  font-family:segoe;
+}
+
+.singleProductName h3{
+	font-weight: bold;
+}
+.singleProductDescription {
+  font-size: 18px;
+  height: 35px;
+  vertical-align: middle;
+  border-bottom: 1px solid;
+  padding: 5px 0;
+  color: #CC0000;
+  font-weight: 600;
+}
+
+.aboutProductIcon {
+	color: #0066FF;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+
+.ingredientProductIcon{
+	color: #0066FF;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+
+.productManual{
+	color: #0066FF;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 5px;
+}

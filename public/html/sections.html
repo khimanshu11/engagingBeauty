@@ -1,0 +1,57 @@
+<div id="headerArea">
+    <div id="bsSticker">
+        <div class="bs-lheader line">
+            <div class="bs-text-center header-title">
+                <span id="pageTitle" class="pageTitle bs-bold bs-inline-block">
+							<span class="title-deco unit"></span>
+                <h1 class="lmargin10 rmargin10 unit title bs-uppercase">Skin Care</h1>
+                <span class="title-deco unit"></span>
+                </span>
+            </div>
+            <div class="fclear"></div>
+        </div>
+    </div>
+    <div class="tpadding5 bs-font-15 bs-text-center">
+        Deal of the Day: Flat 20% OFF on Make up
+        <span class="offer-text tpadding10 bs-font-13 bs-display-block">Get Extra 20% Off on this product</span>
+    </div>
+    <div class="selectedFilter bs-uppercase bs-text-center tpadding10 bpadding10">
+        <div class="bs-inline-block vmiddle">
+            <div id="sfWrap">
+                <div>
+                    <div id="searchCount" class="bs-font-13 font-dark-color unit bs-text-right">
+                        Showing
+                        <span class="count bs-hidden">15</span>
+                        <span class="items">897</span>
+                    </div>
+                    <div class="bs-font-13 font-dark-color unit"><span class="lpadding5 rpadding10 font-dark-color">IN:</span></div>
+                    <div id="selectedFilters" class="sel-filters unit font-font-13 bs-fontlight bs-text-left">
+                        <div class="filter-group bs-inline-block">
+                            <a href="/beauty-and-personal-care/makeup/pr?sid=t06,f" facetid="DOTDonBeautyAcc_June20." class="cross rmargin10" value="facets.promo%5B%5D=DOTDonBeautyAcc_June20.">Deal of the Day: Flat 20% OFF on Make up&nbsp;<span class="crossed"></span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="fclear"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="browsedData">
+    <div id="leftSideFilters"></div>
+    <div id="mainContent">
+        <div id="itemsInProduct">
+            <div class="browsedDataItem" ng-controller="SubCategoryCtrl">
+                <div class="itemDetails" ng-repeat="product in products">
+                    <a href="#/product/{{category}}/{{subCategory}}/{{product.productId}}">
+                        <div class="itemImage">
+                            <img ng-src=../images/{{category}}/{{subCategory}}/multiProductView/{{product.image}} />
+                        </div>
+                        <div class="productName">{{product.name}}</div>
+                        <div class="itemDescription">{{product.protagline}}</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="rightSideAdvertisement"></div>
+</div>

@@ -1,0 +1,17 @@
+	<div class="bsProductBody" ng-controller = "ProductCtrl">
+		<div class="contentContainer">
+			<div class="ImageContainer">
+				<img ng-src=../images/{{category}}/{{subCategory}}/singleProductView/{{product.image}}>
+			</div>
+			<div class="descriptionContainer">
+				<div class="singleProductName"><h3>{{product.name}}</h3></div>
+				<div class="singleProductDescription">{{product.protagline}}</div>
+				<div class="aboutProductIcon">About</div>
+				<div class="singleAboutProduct">{{product.about}}</div>
+				<div class="ingredientProductIcon">Ingredient</div>
+				<div class="singleProductIngredient">{{product.ingredients}}</div>
+				<div class="productManual">How to use</div>
+				<div class="singleProductManual">{{product.useinfo}}</div>
+			</div>
+		</div>
+	</div>

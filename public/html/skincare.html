@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Skin Care</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="../library/css/bootstrap.min.css">
+	<link rel="stylesheet" href="../css/content.css">
+</head>
+<body ng-app="singleProduct">
+	<div id="container">
+		<div id='bsHeader'>
+			<div div="bsMainhead">
+				<div id="headerTopbar">
+					<div id="headerContent">
+						<div id="bsLogo"></div>
+						<div class="input-group" id="SearchBox">
+							<input type="text" class="form-control" placeholder="Search...." aria-describedby="basic-addon2">
+							<span class="input-group-addon " id="basic-addon2"><i class="glyphicon glyphicon-search"></i></span>
+						</div>
+						<div class="bsCartButton">
+							<a class="btn">
+								<span class="glyphicon glyphicon-shopping-cart addcolor">
+								</span>
+								<span class="cart-label addcolor">
+									Cart
+								</span>
+								<span id="item_count_in_cart_top_displayed" class="bs-inline-block cart-count addcolor">
+									0
+								</span>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div id="headerMenu">
+					<div id="menuContent">
+						<div class="navbar-header">
+							<a class="navbar-brand  addcolor" href="#">SEE ALL CATEGORY</a>
+						</div>
+						<div>
+							<ul class="nav navbar-nav">
+								<li class="addcolor "><a href="#">Skincare</a></li>
+								<li class="addcolor "><a href="#">Body</a></li>
+								<li class="addcolor"><a href="#">Hair</a></li>
+								<li class="addcolor"><a href="#">Baby</a></li>
+								<li class="addcolor"><a href="#">Makeup</a></li>
+								<li class="addcolor"><a href="#">Men's</a></li>
+								<li class="addcolor"><a href="#">Gift Sets</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div id="menuHeaderContent"></div>
+				<div class="fclear"></div>
+			</div>
+		</div>
+	</div>
+	<div class="bsProductBody" ng-controller="ProductCtrl">
+		<div class="contentContainer" ng-repeat = "product in products">
+			<div class="ImageContainer">
+				<img ng-src="{{product.image}}">
+			</div>
+			<div class="descriptionContainer">
+				<div class="singleProductName"><h3>{{product.productName}}</h3></div>
+				<div class="singleProductDescription">{{product.productDescription}}</div>
+				<div class="aboutProductIcon">About</div>
+				<div class="singleAboutProduct">{{product.aboutProduct}}</div>
+				<div class="ingredientProductIcon">Ingredient</div>
+				<div class="singleProductIngredient">{{product.ingredient}}</div>
+				<div class="productManual">How to use</div>
+				<div class="singleProductManual">{{product.productManual}}</div>
+			</div>
+		</div>
+	</div>
+	<footer></footer>
+	<script src="../library/angular.min.js"></script>
+	<script src="../library/jquery-1.11.3.min.js"></script>
+	<script src="../library/js/bootstrap.min.js"></script>
+	<script src="../js/singleProduct.js"></script>
+</body></html>
